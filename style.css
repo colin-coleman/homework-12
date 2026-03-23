@@ -40,14 +40,17 @@ display: inline-flex;
 
 .start {
 justify-content: flex-start;
+align-items: flex-start;
 }
 
 .end {
 justify-content: flex-end; 
+align-items: flex-end;
 }
 
 .center {
 justify-content: center;
+
 }
 
 .around {
